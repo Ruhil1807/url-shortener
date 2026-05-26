@@ -61,19 +61,8 @@ Open `dashboard-luxury.html` in your browser for the premium UI.
 
 ## Project Structure
 
-url-shortener/
-├── docker-compose.yml
-├── dashboard-luxury.html
-├── README.md
-└── backend/
-├── package.json
-├── tsconfig.json
-├── Dockerfile
-└── src/
-├── index.ts
-├── routes/
-├── services/
-└── utils/
+<img width="1440" height="1468" alt="image" src="https://github.com/user-attachments/assets/9b1abef4-9fc0-485e-bfb3-fcc066f05acc" />
+
 
 ## Future Improvements
 
