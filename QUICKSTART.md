@@ -2,8 +2,8 @@
 
 ## Step 1: Extract ZIP
 ```bash
-unzip url-shortener-clean.zip
-cd url-shortener-clean
+unzip url-shortener.zip
+cd url-shortener
 ```
 
 ## Step 2: Start Docker
